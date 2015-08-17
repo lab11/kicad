@@ -23,10 +23,10 @@ LAYERS_MAPPING = {
 		'gtl': 'top'
 	},
 	4: {
-		'gbl': 'L1',
+		'gtl': 'L1',
 		'g2':  'L2',
 		'g3':  'L3',
-		'gtl': 'L4'
+		'gbl': 'L4'
 	}
 }
 
