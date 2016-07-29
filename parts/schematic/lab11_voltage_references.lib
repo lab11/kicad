@@ -1,0 +1,21 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# ISL60002CIH312Z-TK
+#
+DEF ISL60002CIH312Z-TK U 0 40 Y Y 1 F N
+F0 "U" -150 200 60 H V C CNN
+F1 "ISL60002CIH312Z-TK" 50 -200 60 H V C CNN
+F2 "lab11-ic:ISL60002" 50 575 60 H I C CNN
+F3 "http://www.intersil.com/content/dam/Intersil/documents/isl6/isl60002.pdf" 50 650 60 H I C CNN
+F4 "Digikey" 0 825 60 H I C CNN "Vendor 1"
+F5 "ISL60002DIH312Z-TKCT-ND" 50 725 60 H I C CNN "Vendor 1 Part Number"
+DRAW
+S -200 150 200 -150 0 1 0 N
+X VCC 1 -400 100 200 R 50 50 1 1 I
+X Vout 2 400 0 200 L 50 50 1 1 I
+X GND 3 -400 -100 200 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+#End Library

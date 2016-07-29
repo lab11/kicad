@@ -1,0 +1,430 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# C_0.1u_0402_10V_10%_JB
+#
+DEF ~C_0.1u_0402_10V_10%_JB C 0 10 N Y 1 F N
+F0 "C" 25 100 50 H V L CNN
+F1 "C_0.1u_0402_10V_10%_JB" -450 750 50 H I L CNN
+F2 "Capacitors_SMD:C_0402" 50 500 50 H I C CNN
+F3 "" 25 100 50 H V C CNN
+F4 "0.1uF" 125 -100 60 H V C CNN "Capacitance"
+F5 "Digikey" 25 575 60 H I C CNN "Vendor 1"
+F6 "445-10894-1-ND" 25 650 60 H I C CNN "Vendor 1 Part Number"
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+P 2 0 1 20  -80 -30  80 -30 N
+P 2 0 1 20  -80 30  80 30 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -150 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# C_10u_0603_10V_10%_JB
+#
+DEF ~C_10u_0603_10V_10%_JB C 0 10 N Y 1 F N
+F0 "C" 25 100 50 H V L CNN
+F1 "C_10u_0603_10V_10%_JB" -450 600 50 H I L CNN
+F2 "Capacitors_SMD:C_0603" 50 350 50 H I C CNN
+F3 "" 25 100 50 H V C CNN
+F4 "10uF" 125 -100 60 H V C CNN "Capacitance"
+F5 "Digikey" 25 425 60 H I C CNN "Vendor 1"
+F6 "445-11201-1-ND" 25 500 60 H I C CNN "Vendor 1 Part Number"
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+P 2 0 1 20  -80 -30  80 -30 N
+P 2 0 1 20  -80 30  80 30 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -150 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# C_10u_0603_10V_tantalum
+#
+DEF ~C_10u_0603_10V_tantalum C 0 40 N Y 1 F N
+F0 "C" 0 70 60 H V R CNN
+F1 "C_10u_0603_10V_tantalum" 800 550 60 H I R CNN
+F2 "Capacitors_SMD:C_0603" 100 700 60 H I C CNN
+F3 "" -160 0 60 V I C CNN
+F4 "Digikey" 100 400 60 H I C CNN "Vendor 1"
+F5 "718-1673-1-ND	" 200 270 60 H I C CNN "Vendor 1 Part Number"
+F6 "10u" -100 -100 60 H V C CNN "Capacitance"
+DRAW
+P 2 0 1 20  -100 20  100 20 N
+P 2 0 1 0  0 -100  0 -20 N
+P 2 0 1 0  0 20  0 100 N
+P 2 0 1 0  60 90  60 50 N
+P 2 0 1 0  80 70  40 70 N
+P 2 0 1 20  100 -20  -100 -20 N
+X ~ 1 0 200 100 D 50 50 1 1 I
+X ~ 2 0 -200 100 U 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+# C_1u_0402_10V_10%_JB
+#
+DEF ~C_1u_0402_10V_10%_JB C 0 10 N Y 1 F N
+F0 "C" 25 100 50 H V L CNN
+F1 "C_1u_0402_10V_10%_JB" -450 600 50 H I L CNN
+F2 "Capacitors_SMD:C_0402" 50 350 50 H I C CNN
+F3 "" 25 100 50 H V C CNN
+F4 "1uF" 125 -100 60 H V C CNN "Capacitance"
+F5 "Digikey" 25 425 60 H I C CNN "Vendor 1"
+F6 "445-10896-1-ND" 25 500 60 H I C CNN "Vendor 1 Part Number"
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+P 2 0 1 20  -80 -30  80 -30 N
+P 2 0 1 20  -80 30  80 30 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -150 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# C_2.2u_0402_10V_10%_JB
+#
+DEF ~C_2.2u_0402_10V_10%_JB C 0 10 N Y 1 F N
+F0 "C" 25 100 50 H V L CNN
+F1 "C_2.2u_0402_10V_10%_JB" -450 600 50 H I L CNN
+F2 "Capacitors_SMD:C_0402" 50 350 50 H I C CNN
+F3 "" 25 100 50 H V C CNN
+F4 "2.2uF" 125 -100 60 H V C CNN "Capacitance"
+F5 "Digikey" 25 425 60 H I C CNN "Vendor 1"
+F6 "445-10904-1-ND" 25 500 60 H I C CNN "Vendor 1 Part Number"
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+P 2 0 1 20  -80 -30  80 -30 N
+P 2 0 1 20  -80 30  80 30 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -150 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# C_4.7u_0402_10V_10%_X5R
+#
+DEF ~C_4.7u_0402_10V_10%_X5R C 0 10 N Y 1 F N
+F0 "C" 25 100 50 H V L CNN
+F1 "C_4.7u_0402_10V_10%_X5R" -450 600 50 H I L CNN
+F2 "Capacitors_SMD:C_0402" 50 350 50 H I C CNN
+F3 "" 25 100 50 H V C CNN
+F4 "4.7uF" 125 -100 60 H V C CNN "Capacitance"
+F5 "Digikey" 25 425 60 H I C CNN "Vendor 1"
+F6 "445-8023-1-ND" 25 500 60 H I C CNN "Vendor 1 Part Number"
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+P 2 0 1 20  -80 -30  80 -30 N
+P 2 0 1 20  -80 30  80 30 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -150 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# C_47p_0402_1%_C0G,NP0
+#
+DEF ~C_47p_0402_1%_C0G,NP0 C 0 10 N Y 1 F N
+F0 "C" 25 100 50 H V L CNN
+F1 "C_47p_0402_1%_C0G,NP0" -450 750 50 H I L CNN
+F2 "Capacitors_SMD:C_0402" 50 500 50 H I C CNN
+F3 "" 25 100 50 H V C CNN
+F4 "47pF" 125 -100 60 H V C CNN "Capacitance"
+F5 "Digikey" 25 575 60 H I C CNN "Vendor 1"
+F6 "490-6241-1-ND" 25 650 60 H I C CNN "Vendor 1 Part Number"
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+P 2 0 1 20  -80 -30  80 -30 N
+P 2 0 1 20  -80 30  80 30 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -150 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# GENERIC_C_0402
+#
+DEF ~GENERIC_C_0402 C 0 10 N Y 1 F N
+F0 "C" 25 100 50 H V L CNN
+F1 "GENERIC_C_0402" -450 750 50 H I L CNN
+F2 "Capacitors_SMD:C_0402" 50 500 50 H I C CNN
+F3 "" 25 100 50 H V C CNN
+F4 "0uF" 125 -100 60 H V C CNN "Capacitance"
+F5 "Digikey" 25 575 60 H I C CNN "Vendor 1"
+F6 "Placeholder" 25 650 60 H I C CNN "Vendor 1 Part Number"
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+P 2 0 1 20  -80 -30  80 -30 N
+P 2 0 1 20  -80 30  80 30 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -150 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# GENERIC_C_0603
+#
+DEF ~GENERIC_C_0603 C 0 10 N Y 1 F N
+F0 "C" 25 100 50 H V L CNN
+F1 "GENERIC_C_0603" -450 750 50 H I L CNN
+F2 "Capacitors_SMD:C_0603" 50 500 50 H I C CNN
+F3 "" 25 100 50 H V C CNN
+F4 "0uF" 125 -100 60 H V C CNN "Capacitance"
+F5 "Digikey" 25 575 60 H I C CNN "Vendor 1"
+F6 "Placeholder" 25 650 60 H I C CNN "Vendor 1 Part Number"
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+P 2 0 1 20  -80 -30  80 -30 N
+P 2 0 1 20  -80 30  80 30 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -150 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# GENERIC_R_0402
+#
+DEF ~GENERIC_R_0402 R 0 20 N N 1 F N
+F0 "R" 0 75 50 H V C CNN
+F1 "GENERIC_R_0402" 25 700 50 H I C CNN
+F2 "Resistors_SMD:R_0402" 0 550 50 H I C CNN
+F3 "" 100 625 50 H I C CNN
+F4 "0" 0 -75 60 H V C CNN "Resistance"
+F5 "Digikey" 0 450 60 H I C CNN "Vendor 1"
+F6 "Placeholder" 0 350 60 H I C CNN "Vendor 1 Part Number"
+DRAW
+P 7 0 1 0  -100 0  -80 20  -40 -20  0 20  40 -20  80 20  100 0 N
+X P1 1 -200 0 100 R 40 40 1 1 P
+X R1 2 200 0 100 L 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# R_0_0402_.1W
+#
+DEF ~R_0_0402_.1W R 0 20 N N 1 F N
+F0 "R" 0 75 50 H V C CNN
+F1 "R_0_0402_.1W" 25 700 50 H I C CNN
+F2 "Resistors_SMD:R_0402" 0 550 50 H I C CNN
+F3 "" 100 625 50 H I C CNN
+F4 "0" 0 -75 60 H V C CNN "Resistance"
+F5 "Digikey" 25 475 60 H I C CNN "Vendor 1"
+F6 "P0.0JCT-ND" 25 375 60 H I C CNN "Vendor 1 Part Number"
+DRAW
+P 7 0 1 0  -100 0  -80 20  -40 -20  0 20  40 -20  80 20  100 0 N
+X P1 1 -200 0 100 R 40 40 1 1 P
+X R1 2 200 0 100 L 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# R_100K_0402_0.5%,25ppm/c,0.063W
+#
+DEF ~R_100K_0402_0.5%,25ppm/c,0.063W R 0 20 N N 1 F N
+F0 "R" 0 75 50 H V C CNN
+F1 "R_100K_0402_0.5%,25ppm/c,0.063W" 25 700 50 H I C CNN
+F2 "Resistors_SMD:R_0402" 0 550 50 H I C CNN
+F3 "http://www.susumu.co.jp/product_pdf/all-list/e_11.pdf" 100 625 50 H I C CNN
+F4 "100K" 25 -75 60 H V C CNN "Resistance"
+F5 "Digikey" 25 475 60 H I C CNN "Vendor 1"
+F6 "RR05P100KDCT-ND	" 25 375 60 H I C CNN "Vendor 1 Part Number"
+DRAW
+P 7 0 1 0  -100 0  -80 20  -40 -20  0 20  40 -20  80 20  100 0 N
+X P1 1 -200 0 100 R 40 40 1 1 P
+X R1 2 200 0 100 L 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# R_10k_0402_1%,100ppm/c,0.063W
+#
+DEF ~R_10k_0402_1%,100ppm/c,0.063W R 0 20 N N 1 F N
+F0 "R" 0 75 50 H V C CNN
+F1 "R_10k_0402_1%,100ppm/c,0.063W" 25 700 50 H I C CNN
+F2 "Resistors_SMD:R_0402" 0 550 50 H I C CNN
+F3 "" 100 625 50 H I C CNN
+F4 "10k" 25 -75 60 H V C CNN "Resistance"
+F5 "Digikey" 25 475 60 H I C CNN "Vendor 1"
+F6 "RHM10.0KCDCT-ND" 25 375 60 H I C CNN "Vendor 1 Part Number"
+DRAW
+P 7 0 1 0  -100 0  -80 20  -40 -20  0 20  40 -20  80 20  100 0 N
+X P1 1 -200 0 100 R 40 40 1 1 P
+X R1 2 200 0 100 L 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# R_1K_0402_1%,100ppm/c,0.2W
+#
+DEF ~R_1K_0402_1%,100ppm/c,0.2W R 0 20 N N 1 F N
+F0 "R" 0 75 50 H V C CNN
+F1 "R_1K_0402_1%,100ppm/c,0.2W" 25 700 50 H I C CNN
+F2 "Resistors_SMD:R_0402" 0 550 50 H I C CNN
+F3 "http://www.susumu.co.jp/product_pdf/all-list/e_11.pdf" 100 625 50 H I C CNN
+F4 "1K" 25 -75 60 H V C CNN "Resistance"
+F5 "Digikey" 25 475 60 H I C CNN "Vendor 1"
+F6 "P17224CT-ND" 25 375 60 H I C CNN "Vendor 1 Part Number"
+DRAW
+P 7 0 1 0  -100 0  -80 20  -40 -20  0 20  40 -20  80 20  100 0 N
+X P1 1 -200 0 100 R 40 40 1 1 P
+X R1 2 200 0 100 L 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# R_200_0402_1%,100ppm/c,0.1W
+#
+DEF ~R_200_0402_1%,100ppm/c,0.1W R 0 20 N N 1 F N
+F0 "R" 0 75 50 H V C CNN
+F1 "R_200_0402_1%,100ppm/c,0.1W" 25 700 50 H I C CNN
+F2 "Resistors_SMD:R_0402" 0 550 50 H I C CNN
+F3 "" 100 625 50 H I C CNN
+F4 "200" 25 -75 60 H V C CNN "Resistance"
+F5 "Digikey" 25 475 60 H I C CNN "Vendor 1"
+F6 "P200LCT-ND" 25 375 60 H I C CNN "Vendor 1 Part Number"
+DRAW
+P 7 0 1 0  -100 0  -80 20  -40 -20  0 20  40 -20  80 20  100 0 N
+X P1 1 -200 0 100 R 40 40 1 1 P
+X R1 2 200 0 100 L 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# R_220K_0402_1%,100ppm/c,0.063W
+#
+DEF ~R_220K_0402_1%,100ppm/c,0.063W R 0 20 N N 1 F N
+F0 "R" 0 75 50 H V C CNN
+F1 "R_220K_0402_1%,100ppm/c,0.063W" 50 625 50 H I C CNN
+F2 "Resistors_SMD:R_0402" 0 550 50 H I C CNN
+F3 "" 100 625 50 H I C CNN
+F4 "220K" 25 -75 60 H V C CNN "Resistance"
+F5 "Digikey" 25 475 60 H I C CNN "Vendor 1"
+F6 "1276-3453-1-ND" 25 375 60 H I C CNN "Vendor 1 Part Number"
+DRAW
+P 7 0 1 0  -100 0  -80 20  -40 -20  0 20  40 -20  80 20  100 0 N
+X P1 1 -200 0 100 R 40 40 1 1 P
+X R1 2 200 0 100 L 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# R_240_0402_1%,100ppm/c,0.063W
+#
+DEF ~R_240_0402_1%,100ppm/c,0.063W R 0 20 N N 1 F N
+F0 "R" 0 75 50 H V C CNN
+F1 "R_240_0402_1%,100ppm/c,0.063W" 25 700 50 H I C CNN
+F2 "Resistors_SMD:R_0402" 0 550 50 H I C CNN
+F3 "" 100 625 50 H I C CNN
+F4 "240" 25 -75 60 H V C CNN "Resistance"
+F5 "Digikey" 25 475 60 H I C CNN "Vendor 1"
+F6 "1276-3965-1-ND" 25 375 60 H I C CNN "Vendor 1 Part Number"
+DRAW
+P 7 0 1 0  -100 0  -80 20  -40 -20  0 20  40 -20  80 20  100 0 N
+X P1 1 -200 0 100 R 40 40 1 1 P
+X R1 2 200 0 100 L 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# R_2K_0402_1%,100ppm/c,0.1W
+#
+DEF ~R_2K_0402_1%,100ppm/c,0.1W R 0 20 N N 1 F N
+F0 "R" 0 75 50 H V C CNN
+F1 "R_2K_0402_1%,100ppm/c,0.1W" 25 700 50 H I C CNN
+F2 "Resistors_SMD:R_0402" 0 550 50 H I C CNN
+F3 "http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0002+ERJ2RKF2001X+7+WW" 100 625 50 H I C CNN
+F4 "2K" 25 -75 60 H V C CNN "Resistance"
+F5 "Digikey" 25 475 60 H I C CNN "Vendor 1"
+F6 "P2.00KLCT-ND" 25 375 60 H I C CNN "Vendor 1 Part Number"
+DRAW
+P 7 0 1 0  -100 0  -80 20  -40 -20  0 20  40 -20  80 20  100 0 N
+X P1 1 -200 0 100 R 40 40 1 1 P
+X R1 2 200 0 100 L 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# R_40.2_0402_1%,100ppm/c,0.063W
+#
+DEF ~R_40.2_0402_1%,100ppm/c,0.063W R 0 20 N N 1 F N
+F0 "R" 0 75 50 H V C CNN
+F1 "R_40.2_0402_1%,100ppm/c,0.063W" 25 700 50 H I C CNN
+F2 "Resistors_SMD:R_0402" 0 550 50 H I C CNN
+F3 "" 100 625 50 H I C CNN
+F4 "40.2" 25 -75 60 H V C CNN "Resistance"
+F5 "Digikey" 25 475 60 H I C CNN "Vendor 1"
+F6 "RMCF0402FT40R2CT-ND" 25 375 60 H I C CNN "Vendor 1 Part Number"
+DRAW
+P 7 0 1 0  -100 0  -80 20  -40 -20  0 20  40 -20  80 20  100 0 N
+X P1 1 -200 0 100 R 40 40 1 1 P
+X R1 2 200 0 100 L 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# R_499K_0402_1%,100ppm/c,0.063W
+#
+DEF ~R_499K_0402_1%,100ppm/c,0.063W R 0 20 N N 1 F N
+F0 "R" 0 75 50 H V C CNN
+F1 "R_499K_0402_1%,100ppm/c,0.063W" 25 700 50 H I C CNN
+F2 "Resistors_SMD:R_0402" 0 550 50 H I C CNN
+F3 "" 100 625 50 H I C CNN
+F4 "499K" 25 -75 60 H V C CNN "Resistance"
+F5 "Digikey" 25 475 60 H I C CNN "Vendor 1"
+F6 "311-499KLRCT-ND" 25 375 60 H I C CNN "Vendor 1 Part Number"
+DRAW
+P 7 0 1 0  -100 0  -80 20  -40 -20  0 20  40 -20  80 20  100 0 N
+X P1 1 -200 0 100 R 40 40 1 1 P
+X R1 2 200 0 100 L 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# R_60.4_0402_1%,100ppm/c,0.1W
+#
+DEF ~R_60.4_0402_1%,100ppm/c,0.1W R 0 20 N N 1 F N
+F0 "R" 0 75 50 H V C CNN
+F1 "R_60.4_0402_1%,100ppm/c,0.1W" 25 700 50 H I C CNN
+F2 "Resistors_SMD:R_0402" 0 550 50 H I C CNN
+F3 "" 100 625 50 H I C CNN
+F4 "60.4" 25 -75 60 H V C CNN "Resistance"
+F5 "Digikey" 25 475 60 H I C CNN "Vendor 1"
+F6 "P60.4LCT-ND" 25 375 60 H I C CNN "Vendor 1 Part Number"
+DRAW
+P 7 0 1 0  -100 0  -80 20  -40 -20  0 20  40 -20  80 20  100 0 N
+X P1 1 -200 0 100 R 40 40 1 1 P
+X R1 2 200 0 100 L 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library

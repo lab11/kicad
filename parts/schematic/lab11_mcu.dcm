@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP edison_iot_module
+D Intel Edison Connection
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,56 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# ICS-40310
+#
+DEF ICS-40310 U 0 40 Y Y 1 F N
+F0 "U" -200 200 60 H V C CNN
+F1 "ICS-40310" 0 -200 60 H V C CNN
+F2 "lab11-microphones:ICS-40310" 50 450 60 H I C CNN
+F3 "http://store.invensense.com/datasheets/invensense/ICS-40310_ProductSpec_V1%200.pdf" 200 350 60 H I C CNN
+F4 "Digikey" 0 650 60 H I C CNN "Vendor 1"
+F5 "1428-1028-1-ND" 0 550 60 H I C CNN "Vendor 1 Part Number"
+DRAW
+S -250 150 300 -150 0 1 0 N
+X OUTPUT 1 500 0 200 L 50 50 1 1 I
+X GND 2 -450 -100 200 R 50 50 1 1 I
+X VCC 3 -450 100 200 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+# SPU0410LR5H-QB
+#
+DEF SPU0410LR5H-QB U 0 40 Y Y 1 F N
+F0 "U" -200 400 60 H V C CNN
+F1 "SPU0410LR5H-QB" 50 -400 60 H V C CNN
+F2 "lab11-microphones:SPU0410LR5H-QB" 1550 -50 60 H I C CNN
+F3 "http://www.knowles.com/download/file?p=SPU0410LR5H.pdf" 2050 50 60 H I C CNN
+F4 "Digikey" 0 700 60 H I C CNN "Vendor 1"
+F5 "423-1139-1-ND" 0 600 60 H I C CNN "Vendor 1 Part Number"
+DRAW
+S -250 350 350 -350 0 1 0 N
+X Output 1 550 0 200 L 50 50 1 1 O
+X GND 2 -450 150 200 R 50 50 1 1 I
+X GND 3 -450 0 200 R 50 50 1 1 I
+X Vcc 4 -450 300 200 R 50 50 1 1 I
+X GND 5 -450 -150 200 R 50 50 1 1 I
+X GND 6 -450 -300 200 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+# SPV1840LR5H-B
+#
+DEF SPV1840LR5H-B U 0 40 Y Y 1 F N
+F0 "U" -100 250 60 H V C CNN
+F1 "SPV1840LR5H-B" 50 -350 60 H V C CNN
+F2 "lab11-microphones:SPV1840LR5H-B" 100 450 60 H I C CNN
+F3 "http://www.knowles.com/eng/content/download/3918/49669/version/8/file/SPV1840LR5H-B+Rev+B+Datasheet.pdf" 150 600 60 H I C CNN
+DRAW
+S -150 200 200 -300 0 1 0 N
+X Vcc 1 -350 100 200 R 50 50 1 1 W
+X Output 2 400 -50 200 L 50 50 1 1 O
+X GND 3 -350 -200 200 R 50 50 1 1 W
+ENDDRAW
+ENDDEF
+#
+#End Library

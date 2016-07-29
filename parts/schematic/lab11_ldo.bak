@@ -1,0 +1,23 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# ADP160AUJZ-1.2-R7
+#
+DEF ADP160AUJZ-1.2-R7 U 0 40 Y Y 1 F N
+F0 "U" -200 250 60 H V C CNN
+F1 "ADP160AUJZ-1.2-R7" 0 -250 60 H V C CNN
+F2 "lab11-ic:TSOT-5" 100 550 60 H I C CNN
+F3 "http://www.analog.com/media/en/technical-documentation/data-sheets/ADP160_161_162_163.pdf" 100 450 60 H I C CNN
+F4 "Digikey" -100 350 60 H I C CNN "Vendor 1"
+F5 "ADP160AUJZ-1.2-R7CT-ND" 0 450 60 H V C CNN "Vendor 1 Part Number"
+DRAW
+S -250 200 250 -200 0 1 0 N
+X VIN 1 -450 150 200 R 50 50 1 1 I
+X GND 2 -450 0 200 R 50 50 1 1 I
+X EN 3 -450 -150 200 R 50 50 1 1 I
+X NC 4 450 -150 200 L 50 50 1 1 I
+X VOUT 5 450 150 200 L 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+#End Library

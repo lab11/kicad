@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP microUSB-B
+D MicroUSB B
+$ENDCMP
+#
+$CMP microUSB-B_smd
+D MicroUSB B
+$ENDCMP
+#
+#End Doc Library

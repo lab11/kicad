@@ -1,0 +1,88 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP C_0.1u_0402_10V_10%_JB
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP C_10u_0603_10V_10%_JB
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP C_10u_0603_10V_tantalum
+D Polarized Capacitor
+K Polarized Capacitor
+$ENDCMP
+#
+$CMP C_1u_0402_10V_10%_JB
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP C_2.2u_0402_10V_10%_JB
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP C_4.7u_0402_10V_10%_X5R
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP C_47p_0402_1%_C0G,NP0
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP GENERIC_C_0402
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP GENERIC_C_0603
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP GENERIC_R_0402
+D 100K 0402 Resistor
+$ENDCMP
+#
+$CMP R_0_0402_.1W
+D 100K 0402 Resistor
+$ENDCMP
+#
+$CMP R_100K_0402_0.5%,25ppm/c,0.063W
+D 100K 0402 Resistor
+$ENDCMP
+#
+$CMP R_10k_0402_1%,100ppm/c,0.063W
+D 100K 0402 Resistor
+$ENDCMP
+#
+$CMP R_1K_0402_1%,100ppm/c,0.2W
+D 100K 0402 Resistor
+$ENDCMP
+#
+$CMP R_200_0402_1%,100ppm/c,0.1W
+D 100K 0402 Resistor
+$ENDCMP
+#
+$CMP R_220K_0402_1%,100ppm/c,0.063W
+D 100K 0402 Resistor
+$ENDCMP
+#
+$CMP R_240_0402_1%,100ppm/c,0.063W
+D 100K 0402 Resistor
+$ENDCMP
+#
+$CMP R_2K_0402_1%,100ppm/c,0.1W
+D 100K 0402 Resistor
+$ENDCMP
+#
+$CMP R_40.2_0402_1%,100ppm/c,0.063W
+D 100K 0402 Resistor
+$ENDCMP
+#
+$CMP R_499K_0402_1%,100ppm/c,0.063W
+D 100K 0402 Resistor
+$ENDCMP
+#
+$CMP R_60.4_0402_1%,100ppm/c,0.1W
+D 100K 0402 Resistor
+$ENDCMP
+#
+#End Doc Library

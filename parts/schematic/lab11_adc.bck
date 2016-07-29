@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AD7680
+D 16 bit, low power SAR ADC with internal reference
+$ENDCMP
+#
+#End Doc Library
