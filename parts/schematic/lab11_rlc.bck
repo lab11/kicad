@@ -37,6 +37,10 @@ $CMP GENERIC_C_0603
 D Unpolarized capacitor
 $ENDCMP
 #
+$CMP GENERIC_C_0805
+D Unpolarized capacitor
+$ENDCMP
+#
 $CMP GENERIC_R_0402
 D 100K 0402 Resistor
 $ENDCMP
